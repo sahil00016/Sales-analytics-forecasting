@@ -34,6 +34,7 @@ Analyze and forecast retail sales data, visualize trends, and build a resume-wor
   - Monthly Sales Trend (line chart)
   - Forecast vs Actual (line chart with confidence interval)
 - Save the dashboard as a `.pbix` file for sharing and portfolio use.
+<img width="1099" height="623" alt="image" src="https://github.com/user-attachments/assets/449bbbb8-09bf-45d1-9c83-a23c6f393fa5" />
 
 ## How to Run
 
